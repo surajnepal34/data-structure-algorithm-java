@@ -1,3 +1,5 @@
+package com.dsa.linkedlist;
+
 public class Node <T> {
 
     public T data;

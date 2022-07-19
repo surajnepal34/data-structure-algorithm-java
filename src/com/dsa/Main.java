@@ -1,7 +1,12 @@
-public class Runner {
+package com.dsa;
+
+import com.dsa.linkedlist.LinkedList;
+
+public class Main {
 
     public static void main(String[] args) {
-
+	// write your code here
+        System.out.println("Hello World!!");
         LinkedList<Integer> ll = new LinkedList<Integer>();
         ll.insert(3);
         ll.insert(5);
@@ -11,5 +16,5 @@ public class Runner {
         ll.show();
         System.out.println("value is removed : "+ ll.remove(99));
         ll.show();
-}
+    }
 }
