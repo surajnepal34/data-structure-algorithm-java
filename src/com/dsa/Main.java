@@ -1,5 +1,6 @@
 package com.dsa;
 
+import com.dsa.array.ContainDuplicate;
 import com.dsa.linkedlist.LinkedList;
 
 public class Main {
@@ -16,5 +17,13 @@ public class Main {
         ll.show();
         System.out.println("value is removed : "+ ll.remove(99));
         ll.show();
+
+        //Contains Duplicate problem
+        //Input: nums = [1,2,3,1] , Output: true
+        int[] nums = new int[]{1, 2, 3,6};
+        ContainDuplicate containDuplicate = new ContainDuplicate();
+        boolean output = containDuplicate.containDuplicate(nums);
+        System.out.println("The result of containsDuplicate : " + output);
+
     }
 }
