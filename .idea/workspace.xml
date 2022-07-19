@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e391cc0-1135-401a-a3db-d0151f87769b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CAF2uEFcm3q5kXL19xYby0FcTa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="data-structure-algorithm-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e391cc0-1135-401a-a3db-d0151f87769b" name="Default Changelist" comment="" />
+      <created>1658237278585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658237278585</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="819" height="251" key="GridCell.Tab.0.bottom" timestamp="1658241867795">
+      <screen x="1680" y="25" width="2560" height="1055" />
+    </state>
+    <state width="819" height="251" key="GridCell.Tab.0.bottom/1680.25.2560.1055/0.25.1680.959@1680.25.2560.1055" timestamp="1658238029824" />
+    <state width="819" height="251" key="GridCell.Tab.0.bottom/1680.25.2560.1055/0.25.1680.960@1680.25.2560.1055" timestamp="1658241867795" />
+    <state width="819" height="251" key="GridCell.Tab.0.center" timestamp="1658241867793">
+      <screen x="1680" y="25" width="2560" height="1055" />
+    </state>
+    <state width="819" height="251" key="GridCell.Tab.0.center/1680.25.2560.1055/0.25.1680.959@1680.25.2560.1055" timestamp="1658238029823" />
+    <state width="819" height="251" key="GridCell.Tab.0.center/1680.25.2560.1055/0.25.1680.960@1680.25.2560.1055" timestamp="1658241867793" />
+    <state width="819" height="251" key="GridCell.Tab.0.left" timestamp="1658241867793">
+      <screen x="1680" y="25" width="2560" height="1055" />
+    </state>
+    <state width="819" height="251" key="GridCell.Tab.0.left/1680.25.2560.1055/0.25.1680.959@1680.25.2560.1055" timestamp="1658238029823" />
+    <state width="819" height="251" key="GridCell.Tab.0.left/1680.25.2560.1055/0.25.1680.960@1680.25.2560.1055" timestamp="1658241867793" />
+    <state width="819" height="251" key="GridCell.Tab.0.right" timestamp="1658241867794">
+      <screen x="1680" y="25" width="2560" height="1055" />
+    </state>
+    <state width="819" height="251" key="GridCell.Tab.0.right/1680.25.2560.1055/0.25.1680.959@1680.25.2560.1055" timestamp="1658238029824" />
+    <state width="819" height="251" key="GridCell.Tab.0.right/1680.25.2560.1055/0.25.1680.960@1680.25.2560.1055" timestamp="1658241867794" />
+    <state x="2517" y="217" key="SettingsEditor" timestamp="1658238008125">
+      <screen x="1680" y="25" width="2560" height="1055" />
+    </state>
+    <state x="2517" y="217" key="SettingsEditor/1680.25.2560.1055/0.25.1680.959@1680.25.2560.1055" timestamp="1658238008125" />
+  </component>
+</project>
