@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eeab642-7782-4b51-942d-7b2ac20818f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/array/ContainDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-structure-algorithm-java/com/dsa/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-structure-algorithm-java/com/dsa/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,26 +81,31 @@
       <screen x="1680" y="25" width="2560" height="1055" />
     </state>
     <state x="2961" y="489" width="451" height="231" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1680.25.2560.1055/0.25.1680.960@1680.25.2560.1055" timestamp="1658266701523" />
-    <state width="878" height="251" key="GridCell.Tab.0.bottom" timestamp="1658267556439">
+    <state width="878" height="331" key="GridCell.Tab.0.bottom" timestamp="1658319576694">
       <screen x="1680" y="25" width="2560" height="1055" />
     </state>
+    <state width="878" height="331" key="GridCell.Tab.0.bottom/1680.25.2560.1055/0.25.1680.958@1680.25.2560.1055" timestamp="1658319576694" />
     <state width="878" height="251" key="GridCell.Tab.0.bottom/1680.25.2560.1055/0.25.1680.960@1680.25.2560.1055" timestamp="1658267556439" />
-    <state width="878" height="251" key="GridCell.Tab.0.center" timestamp="1658267556437">
+    <state width="878" height="331" key="GridCell.Tab.0.center" timestamp="1658319576694">
       <screen x="1680" y="25" width="2560" height="1055" />
     </state>
+    <state width="878" height="331" key="GridCell.Tab.0.center/1680.25.2560.1055/0.25.1680.958@1680.25.2560.1055" timestamp="1658319576694" />
     <state width="878" height="251" key="GridCell.Tab.0.center/1680.25.2560.1055/0.25.1680.960@1680.25.2560.1055" timestamp="1658267556437" />
-    <state width="878" height="251" key="GridCell.Tab.0.left" timestamp="1658267556437">
+    <state width="878" height="331" key="GridCell.Tab.0.left" timestamp="1658319576694">
       <screen x="1680" y="25" width="2560" height="1055" />
     </state>
+    <state width="878" height="331" key="GridCell.Tab.0.left/1680.25.2560.1055/0.25.1680.958@1680.25.2560.1055" timestamp="1658319576694" />
     <state width="878" height="251" key="GridCell.Tab.0.left/1680.25.2560.1055/0.25.1680.960@1680.25.2560.1055" timestamp="1658267556437" />
-    <state width="878" height="251" key="GridCell.Tab.0.right" timestamp="1658267556438">
+    <state width="878" height="331" key="GridCell.Tab.0.right" timestamp="1658319576694">
       <screen x="1680" y="25" width="2560" height="1055" />
     </state>
+    <state width="878" height="331" key="GridCell.Tab.0.right/1680.25.2560.1055/0.25.1680.958@1680.25.2560.1055" timestamp="1658319576694" />
     <state width="878" height="251" key="GridCell.Tab.0.right/1680.25.2560.1055/0.25.1680.960@1680.25.2560.1055" timestamp="1658267556438" />
-    <state x="2866" y="429" key="com.intellij.ide.util.TipDialog" timestamp="1658266579615">
-      <screen x="1680" y="25" width="2560" height="1055" />
+    <state x="778" y="395" key="com.intellij.ide.util.TipDialog" timestamp="1658492733653">
+      <screen x="0" y="25" width="1680" height="965" />
     </state>
     <state x="2866" y="429" key="com.intellij.ide.util.TipDialog/1680.25.2560.1055/0.25.1680.960@1680.25.2560.1055" timestamp="1658266579615" />
+    <state x="778" y="395" key="com.intellij.ide.util.TipDialog/1680.25.2560.1055/0.25.1680.965@0.25.1680.965" timestamp="1658492733653" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
